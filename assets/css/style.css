@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+.contenedor {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+.botones{
+  margin: 5px;
+}
